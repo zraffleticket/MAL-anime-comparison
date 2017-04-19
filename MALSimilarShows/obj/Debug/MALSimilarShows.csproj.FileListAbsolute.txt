@@ -1,0 +1,16 @@
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Debug\MALSimilarShows.csprojResolveAssemblyReference.cache
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Debug\MainWindow.g.cs
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Debug\App.g.cs
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Debug\MALSimilarShows_MarkupCompile.cache
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Debug\MALSimilarShows_MarkupCompile.lref
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\MALSimilarShows\MALSimilarShows\bin\Debug\MALSimilarShows.exe.config
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\MALSimilarShows\MALSimilarShows\bin\Debug\MALSimilarShows.exe
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\MALSimilarShows\MALSimilarShows\bin\Debug\MALSimilarShows.pdb
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Debug\MainWindow.baml
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Debug\MALSimilarShows.g.resources
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Debug\MALSimilarShows.Properties.Resources.resources
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Debug\MALSimilarShows.csproj.GenerateResource.Cache
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Debug\MALSimilarShows.exe
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Debug\MALSimilarShows.pdb
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Debug\Window1.g.cs
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Debug\Window1.baml

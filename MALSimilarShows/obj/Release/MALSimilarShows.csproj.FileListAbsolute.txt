@@ -1,0 +1,15 @@
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\bin\Release\MALSimilarShows.exe.config
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\bin\Release\MALSimilarShows.exe
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\bin\Release\MALSimilarShows.pdb
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\MainWindow.g.cs
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\Window1.g.cs
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\App.g.cs
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\MALSimilarShows_MarkupCompile.cache
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\MALSimilarShows_MarkupCompile.lref
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\MainWindow.baml
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\Window1.baml
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\MALSimilarShows.g.resources
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\MALSimilarShows.Properties.Resources.resources
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\MALSimilarShows.csproj.GenerateResource.Cache
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\MALSimilarShows.exe
+C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\MALSimilarShows.pdb

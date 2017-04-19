@@ -1,0 +1,22 @@
+﻿<Window x:Class="MALSimilarShows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MALSimilarShows"
+        mc:Ignorable="d"
+        Title="MAL Shared Role Viewer" Height="637" Width="887.2" ResizeMode="NoResize">
+
+    <Grid>
+
+        <DataGrid x:Name="dgTbl" HorizontalAlignment="Left" Height="475" Margin="10,10,0,0" VerticalAlignment="Top" Width="853" ItemsSource="{Binding}" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnGo" Content="Go" HorizontalAlignment="Left" Margin="399,566,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" Grid.ColumnSpan="2" Height="18"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,497,0,0" TextWrapping="Wrap" Text="Show 1: " VerticalAlignment="Top" Height="16" Width="45"/>
+        <TextBlock HorizontalAlignment="Left" Margin="9,525,0,0" TextWrapping="Wrap" Text="Show 2: " VerticalAlignment="Top" Height="16" Width="45"/>
+        <TextBox x:Name="txtOne" TextChanged="txtOne_TextChanged" HorizontalAlignment="Left" Height="23" Margin="59,490,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="783"/>
+        <TextBox x:Name="txtTwo" TextChanged="txtTwo_TextChanged" HorizontalAlignment="Left" Height="23" Margin="59,518,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="783"/>
+        <TextBlock x:Name="tbGood1" HorizontalAlignment="Left" Margin="847,490,0,0" TextWrapping="Wrap" Text="X" VerticalAlignment="Top" Height="23" Width="15" Foreground="Red" FontWeight="Bold" FontSize="16"/>
+        <TextBlock x:Name="tbGood2" HorizontalAlignment="Left" Margin="847,518,0,0" TextWrapping="Wrap" Text="X" VerticalAlignment="Top" Height="23" Width="15" Foreground="Red" FontWeight="Bold" FontSize="16"/>
+
+    </Grid>
+</Window>
