@@ -13,3 +13,4 @@ C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarSh
 C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\MALSimilarShows.csproj.GenerateResource.Cache
 C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\MALSimilarShows.exe
 C:\Users\Zach\documents\visual studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\MALSimilarShows.pdb
+C:\Users\Zach\Documents\Visual Studio 2017\Projects\MALSimilarShows\MALSimilarShows\obj\Release\MALSimilarShows.csprojResolveAssemblyReference.cache

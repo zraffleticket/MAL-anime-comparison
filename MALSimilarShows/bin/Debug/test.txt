@@ -1,0 +1,465 @@
+<root><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/10384/Hiroshi_Nishikiori" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/10384/Hiroshi_Nishikiori">Nishikiori, Hiroshi</a>
+        <div class="spaceit_pad">
+          <small>Director, Episode Director, Storyboard</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/42434/Atsushi_Takeyama" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <a href="https://myanimelist.net/people/42434/Atsushi_Takeyama">Takeyama, Atsushi</a>
+        <div class="spaceit_pad">
+          <small>Director, Storyboard</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/7194/Youta_Tsuruoka" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/7194/Youta_Tsuruoka">Tsuruoka, Youta</a>
+        <div class="spaceit_pad">
+          <small>Sound Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/39968/Kiyotaka_Ohata" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <a href="https://myanimelist.net/people/39968/Kiyotaka_Ohata">Ohata, Kiyotaka</a>
+        <div class="spaceit_pad">
+          <small>Episode Director, Storyboard, Key Animation, Assistant Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/5062/Youji_Enokido" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/5062/Youji_Enokido">Enokido, Youji</a>
+        <div class="spaceit_pad">
+          <small>Script, Series Composition</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/6389/Souichi_Masui" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <a href="https://myanimelist.net/people/6389/Souichi_Masui">Masui, Souichi</a>
+        <div class="spaceit_pad">
+          <small>Storyboard</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/11397/Lisa_Komine" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/11397/Lisa_Komine">Komine, Lisa</a>
+        <div class="spaceit_pad">
+          <small>Theme Song Performance</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/12656/Tooru_Okada" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <a href="https://myanimelist.net/people/12656/Tooru_Okada">Okada, Tooru</a>
+        <div class="spaceit_pad">
+          <small>Theme Song Composition</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/11499/Mikio_Sakai" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/11499/Mikio_Sakai">Sakai, Mikio</a>
+        <div class="spaceit_pad">
+          <small>Theme Song Lyrics</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/16835/Yukiko_Akiyama" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <a href="https://myanimelist.net/people/16835/Yukiko_Akiyama">Akiyama, Yukiko</a>
+        <div class="spaceit_pad">
+          <small>Key Animation, Animation Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/38828/Shingo_Fukuyo" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/38828/Shingo_Fukuyo">Fukuyo, Shingo</a>
+        <div class="spaceit_pad">
+          <small>Director of Photography</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/11529/Shinya_Hasegawa" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <a href="https://myanimelist.net/people/11529/Shinya_Hasegawa">Hasegawa, Shinya</a>
+        <div class="spaceit_pad">
+          <small>Key Animation, Animation Director, Character Design</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/17041/Yuki_Imoto" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/17041/Yuki_Imoto">Imoto, Yuki</a>
+        <div class="spaceit_pad">
+          <small>Key Animation</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/10936/Masashi_Ishihama" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <a href="https://myanimelist.net/people/10936/Masashi_Ishihama">Ishihama, Masashi</a>
+        <div class="spaceit_pad">
+          <small>Key Animation</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/41190/Osamu_Kamei" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/41190/Osamu_Kamei">Kamei, Osamu</a>
+        <div class="spaceit_pad">
+          <small>Key Animation, Animation Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/9676/Hiromi_Katou" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <a href="https://myanimelist.net/people/9676/Hiromi_Katou">Katou, Hiromi</a>
+        <div class="spaceit_pad">
+          <small>Key Animation, Animation Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/30185/Jonathan_Klein" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/30185/Jonathan_Klein">Klein, Jonathan</a>
+        <div class="spaceit_pad">
+          <small>ADR Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/8964/Shichiro_Kobayashi" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <a href="https://myanimelist.net/people/8964/Shichiro_Kobayashi">Kobayashi, Shichiro</a>
+        <div class="spaceit_pad">
+          <small>Art Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/39322/Hiromi_Masuda" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/39322/Hiromi_Masuda">Masuda, Hiromi</a>
+        <div class="spaceit_pad">
+          <small>Key Animation</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/41403/Kuniaki_Masuda" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <a href="https://myanimelist.net/people/41403/Kuniaki_Masuda">Masuda, Kuniaki</a>
+        <div class="spaceit_pad">
+          <small>Key Animation, Animation Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/38161/Mai_Matsuura" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/38161/Mai_Matsuura">Matsuura, Mai</a>
+        <div class="spaceit_pad">
+          <small>In-Between Animation</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/39210/Yoshikazu_Miyao" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <a href="https://myanimelist.net/people/39210/Yoshikazu_Miyao">Miyao, Yoshikazu</a>
+        <div class="spaceit_pad">
+          <small>Mechanical Design</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/28579/Shingo_Natsume" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/28579/Shingo_Natsume">Natsume, Shingo</a>
+        <div class="spaceit_pad">
+          <small>Key Animation, 2nd Key Animation</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/22429/Yasunari_Nitta" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <a href="https://myanimelist.net/people/22429/Yasunari_Nitta">Nitta, Yasunari</a>
+        <div class="spaceit_pad">
+          <small>Key Animation</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/8975/Mai_Otsuka" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/8975/Mai_Otsuka">Otsuka, Mai</a>
+        <div class="spaceit_pad">
+          <small>Key Animation, Animation Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/3158/Yoshiyuki_Sadamoto" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <a href="https://myanimelist.net/people/3158/Yoshiyuki_Sadamoto">Sadamoto, Yoshiyuki</a>
+        <div class="spaceit_pad">
+          <small>Mechanical Design</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/38508/Yoshikazu_Suo" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/38508/Yoshikazu_Suo">Suo, Yoshikazu</a>
+        <div class="spaceit_pad">
+          <small>Music</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/5988/Hiroyuki_Yamaga" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <a href="https://myanimelist.net/people/5988/Hiroyuki_Yamaga">Yamaga, Hiroyuki</a>
+        <div class="spaceit_pad">
+          <small>Planning</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/7998/You_Yoshinari" class="fw-n">
+            
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/7998/You_Yoshinari">Yoshinari, You</a>
+        <div class="spaceit_pad">
+          <small>Mechanical Design</small>
+        </div>
+      </td>
+    </tr>
+  </table></root>

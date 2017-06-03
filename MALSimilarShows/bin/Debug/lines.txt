@@ -1,0 +1,17 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/203/Justin_Cook" class="fw-n">
+            <img alt="Cook, Justin" width="23" height="32" data-src="https://myanimelist.cdn-dena.com/r/23x32/images/voiceactors/2/12472.jpg?s=29d4503e75c67c28f566e2fc4fa65e49" data-srcset="https://myanimelist.cdn-dena.com/r/23x32/images/voiceactors/2/12472.jpg?s=29d4503e75c67c28f566e2fc4fa65e49 1x, https://myanimelist.cdn-dena.com/r/46x64/images/voiceactors/2/12472.jpg?s=a990f979b144da00bc648f6928e3c4ec 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/203/Justin_Cook">Cook, Justin</a>
+        <div class="spaceit_pad">
+          <small>Producer</small>
+        </div>
+      </td>
+    </tr>
+  </table>
